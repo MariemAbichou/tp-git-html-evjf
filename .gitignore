@@ -1,0 +1,4 @@
+# commentaire
+# pour ignorer le repertoire node_modules car le build le recrer de tout de façon
+/node_modules
+/note.txt
